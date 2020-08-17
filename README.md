@@ -1,5 +1,8 @@
 <!--- Hi there 👋 --->
-https://github.com/adityarc19/adityarc19/blob/master/hello.gif
+![hello][hello_logo]
+
+[hello_logo]: https://github.com/adityarc19/adityarc19/blob/master/hello.gif
+
 
 I'm Aditya, a CS undergrad student with a focus on data science and computer vision.
 
