@@ -1,7 +1,23 @@
-Hi there 👋
+Hi there 👋  I'm Aditya. I'm a CS undergrad with a focus on data science and computer vision.
 
 
 **Welcome to my GitHub page!**
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently in my last year at my undergrad in SRM-IST, Chennai. 
+- 🌱 I’m currently learning deep learning projects.
+- 👯 I’m looking to collaborate on any kind of data science task. 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about ANYTHING.
+- 📫 Reach me at my Linkedin [here](https://www.linkedin.com/in/adityarc19/)
+- ⚡ Fun fact: I love learning about spiritual science and I'm fascinated about meta-physics involved in it !
+
+-->
+
 
 Connect with me on these platforms:
 
