@@ -1,4 +1,4 @@
-Hi there 👋  I'm Aditya. I'm a CS undergrad student with a focus on data science and computer vision.
+Hi there 👋    I'm Aditya. I'm a CS undergrad student with a focus on data science and computer vision.
 
 
 **Welcome to my GitHub page!**
