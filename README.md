@@ -7,7 +7,7 @@ Hi there 👋| I'm Aditya, a CS undergrad student with a focus on data science a
 Here are some ideas to get you started:
 
 - 🔭 I’m currently in my last year at my undergrad in SRM-IST, Chennai. 
-- 🌱 I’m currently learning deep learning projects.
+- 🌱 I’m currently learning reinforcement learning concepts.
 - 👯 I’m looking to collaborate on any kind of data science task. 
 - 🤔 I’m looking for help with advanced optimisation techniques in object detection architectures. 
 - 💬 Ask me about ANYTHING.
