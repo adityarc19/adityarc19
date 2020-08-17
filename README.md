@@ -4,8 +4,6 @@ Hi there 👋  I'm Aditya. I'm a CS undergrad with a focus on data science and c
 **Welcome to my GitHub page!**
 
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently in my last year at my undergrad in SRM-IST, Chennai. 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at my Linkedin [here](https://www.linkedin.com/in/adityarc19/)
 - ⚡ Fun fact: I love learning about spiritual science and I'm fascinated about meta-physics involved in it !
 
--->
 
 
 Connect with me on these platforms:
