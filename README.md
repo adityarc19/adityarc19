@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning reinforcement learning concepts.
 - 👯 I’m looking to collaborate on any kind of data science task. 
 - 🤔 I’m looking for help with advanced optimisation techniques in object detection architectures. 
-- 💬 Ask me about ANYTHING.
-- 📫 Reach me at my Linkedin [here](https://www.linkedin.com/in/adityarc19/).
 - ⚡ Fun fact: I love learning about spiritual science and I'm fascinated at the meta-physics involved in it !
 
 
