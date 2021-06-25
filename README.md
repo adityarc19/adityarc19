@@ -2,9 +2,6 @@
 
 
 
-I'm Aditya, a CS undergrad student with a focus on data science and computer vision.
-
-
 
 
 Connect with me on these platforms:
